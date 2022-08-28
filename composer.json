@@ -2,7 +2,7 @@
     "name": "zadrog/laravel-model-query",
     "description": "Simplified use of models Eloquent",
     "require": {
-        "laravel/framework": "^8.0",
+        "laravel/framework": "^8.0 || ^9.19",
         "php": "^7.4 || ^8.0"
     },
     "autoload": {
