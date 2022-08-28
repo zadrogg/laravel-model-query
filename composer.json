@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zadrog\\LaravelModelQuery\\Traits": "Traits/"
+            "Zadrog\\LaravelModelQuery\\Traits\\": "Traits/"
         }
     },
     "authors": [
