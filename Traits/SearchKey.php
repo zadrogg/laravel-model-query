@@ -1,6 +1,6 @@
 <?php
 
-namespace Traits;
+namespace Zadrog\LaravelModelQuery\Traits;
 
 trait SearchKey
 {

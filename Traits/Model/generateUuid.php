@@ -1,6 +1,6 @@
 <?php
 
-namespace Traits\Model;
+namespace Zadrog\LaravelModelQuery\Traits\Model;
 
 use Ramsey\Uuid\Uuid;
 

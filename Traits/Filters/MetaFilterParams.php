@@ -1,6 +1,6 @@
 <?php
 
-namespace Traits\Filters;
+namespace Zadrog\LaravelModelQuery\Traits\Filters;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\DB;

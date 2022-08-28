@@ -1,6 +1,6 @@
 <?php
 
-namespace Traits\Filters;
+namespace Zadrog\LaravelModelQuery\Traits\Filters;
 
 trait Filter
 {
